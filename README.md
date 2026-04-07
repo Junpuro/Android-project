@@ -23,4 +23,4 @@ A simple Android application for managing books.
 
 ## Demo
 
-*
+* https://www.loom.com/share/8b5fb4fadf6e446dbc115ef2832f36c9
